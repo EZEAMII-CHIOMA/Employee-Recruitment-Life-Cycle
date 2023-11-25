@@ -1,13 +1,16 @@
 # Employee-Recruitment-Life-Cycle
+
 This is Productivity tool challenge project organized by my employer 
 
 ![image](https://images.pexels.com/photos/4342497/pexels-photo-4342497.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 
 Overview
+
 Welcome to the Employee Recruitment Life Cycle project! This repository showcases a comprehensive analysis of the employee recruitment process through the lens of a dynamic Power BI dashboard. The objective is to provide a visual representation of key metrics and insights to optimize and streamline the recruitment life cycle.
 
 Contents
+
 The repository includes:
 
 Power BI Dashboard: A visually compelling and interactive dashboard that encapsulates crucial aspects of the employee recruitment life cycle.
